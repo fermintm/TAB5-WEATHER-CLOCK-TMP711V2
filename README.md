@@ -6,3 +6,5 @@ Thank you very much. NOTE: The project displays values, buttons, sliders, and ot
 
 INSERT YOUR OPENWEATHERMAP API KEY AND BURN WITH ARDUJINO IDE.
 NOT BURN WITH M5BURNER!! Use Arduino ide!
+
+UNZIP data.zip file on SD root.
